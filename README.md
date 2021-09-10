@@ -15,3 +15,5 @@ Coding should be concise and formatted properly.
 
 ## Link to webpage:
 
+https://github.com/Jcarps97/semantic-tagging
+https://jcarps97.github.io/semantic-tagging/
